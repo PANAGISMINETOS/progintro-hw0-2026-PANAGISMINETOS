@@ -8,3 +8,6 @@
 
 Στο byte 2 χρησιμοποιοντας τηνν εντολη grep στο string "will find" στο αρχειο shakespeare.txt βρισκουμε την κρυφη 
 φραση "grep_and_you_shall_find"
+
+Στο byte 3  χρησιμοποιοντας την εντολη diff με τα αρχεια,βρισκουμε την γραμμη,η οποια αλλαζει αρα και τις λεξεις 
+" programmers  players"

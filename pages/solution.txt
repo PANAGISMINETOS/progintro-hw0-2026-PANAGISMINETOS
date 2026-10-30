@@ -8,9 +8,8 @@ BYTE 2
 grep_and_you_shall_find
  
 BYTE 3
-<     And all the men and women merely programmers;
----
->     And all the men and women merely players;
+programmers
+players
 
 BYTE 4
 the_triwizard_cup_is_yours_watch_out_for_the_horntail

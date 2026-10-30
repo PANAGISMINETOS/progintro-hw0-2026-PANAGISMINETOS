@@ -19,3 +19,6 @@ sdi2600118_1793282495_-261089718_5_203_210_23_1740_22
 
 BYTE 6
 unzip_whenever_you_feel_a_little_compressed
+
+BYTE 7
+tar_jokes_wont_stick
